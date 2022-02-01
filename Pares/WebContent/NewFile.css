@@ -1,0 +1,108 @@
+@charset "UTF-8";
+
+h1{
+background-color:orange;
+color:white;
+text-align:center;
+height:75px;
+padding-top:25px;
+margin-bottom:-16px;
+font-family: 'Sriracha', cursive;
+}
+
+.azulitoP{
+background-color:lightblue;
+height:35px;
+}
+
+.azulito{
+background-color:lightblue;
+}
+
+.asul{
+background-color:blue;
+height:15px;
+
+}
+
+.uno{
+color:blue;
+}
+
+.dos{
+color:red;
+background-color:lightblue;
+
+}
+
+.azulito{
+background-color:lightblue;
+height:15px;
+
+}
+
+.red{
+background-color:red;
+height:15px;
+
+
+}
+
+.all{
+background-color:lightblue;
+}
+
+.azulitop{
+background-color:lightblue;
+height:30px;
+}
+
+.naranja{
+background-color:#D2691E;
+height:15px;
+margin-bottom:-15px;
+
+}
+
+.lms{
+background-color:#D2691E;
+height:45px;
+margin-bottom:-15px;
+text-align:center;
+}
+.orange{
+background-color:orange;
+height:15px;
+
+}
+ul{
+	list-style:katakana-iroha;
+}
+.sapo{
+	float:right;	
+	margin-top:-25px;
+	
+}
+.steve{
+	
+	float:left;	
+	
+	margin-top:-25px;
+}
+
+.serv{
+	background-color:yellow;
+	
+}
+.raya{
+	 text-decoration:line-through;
+}
+
+.productos{
+	padding-left:35px;
+	background-color:#faebd7;
+}
+
+.global{
+	background-color:orange;
+}
